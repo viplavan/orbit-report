@@ -2,6 +2,9 @@
   cursor: pointer;
   color: #dd5;
 }
+.stripe {
+  background-color:peru;
+}
 
 .warning {
   background-color: #da8a8a;
